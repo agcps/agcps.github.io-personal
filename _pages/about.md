@@ -27,7 +27,3 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 -->
-
-I am a Ph.D. Candidate at University of Michigan,
-studying for low temperature plasma modeling
-with applications of plasma-liquid interactions and semiconductor etching process.
